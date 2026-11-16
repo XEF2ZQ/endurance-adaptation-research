@@ -1,0 +1,28 @@
+{
+  "status": "arithmetic and hypothetical sensitivity analysis only",
+  "original_grid_maximum": {
+    "work_min": 8,
+    "rest_min": 4,
+    "unvalidated_score": 4.482283383
+  },
+  "quality_break_even_32_vs_30": 0.9375,
+  "quality_scenarios": [
+    {
+      "retained_quality_32min": 1.0,
+      "weighted_min_32min": 32.0,
+      "weighted_min_30min": 30
+    },
+    {
+      "retained_quality_32min": 0.95,
+      "weighted_min_32min": 30.4,
+      "weighted_min_30min": 30
+    },
+    {
+      "retained_quality_32min": 0.9,
+      "weighted_min_32min": 28.8,
+      "weighted_min_30min": 30
+    }
+  ],
+  "hormone_coefficients": null,
+  "adaptation_prediction": null
+}

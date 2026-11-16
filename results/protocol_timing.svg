@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590">
+<rect width="1000" height="590" fill="#f7f9fc"/>
+<g font-family="Arial,sans-serif" fill="#172d45">
+<text x="35" y="40" font-size="24" font-weight="bold">Equal minutes do not imply equal adaptation</text>
+<text x="35" y="68" font-size="15">Exact schedules: dark = work, pale = recovery. No final rest.</text>
+<text x="35" y="126" font-size="16">6x4 / 1</text>
+<rect x="230" y="105" width="60" height="28" rx="2" fill="#176b87"/>
+<rect x="290" y="105" width="15" height="28" fill="#c8d8e4"/>
+<rect x="305" y="105" width="60" height="28" rx="2" fill="#176b87"/>
+<rect x="365" y="105" width="15" height="28" fill="#c8d8e4"/>
+<rect x="380" y="105" width="60" height="28" rx="2" fill="#176b87"/>
+<rect x="440" y="105" width="15" height="28" fill="#c8d8e4"/>
+<rect x="455" y="105" width="60" height="28" rx="2" fill="#176b87"/>
+<rect x="515" y="105" width="15" height="28" fill="#c8d8e4"/>
+<rect x="530" y="105" width="60" height="28" rx="2" fill="#176b87"/>
+<rect x="590" y="105" width="15" height="28" fill="#c8d8e4"/>
+<rect x="605" y="105" width="60" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="126" font-size="15">24 / 29 min</text>
+<text x="35" y="175" font-size="16">4x6 / 2</text>
+<rect x="230" y="154" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="320" y="154" width="30" height="28" fill="#c8d8e4"/>
+<rect x="350" y="154" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="440" y="154" width="30" height="28" fill="#c8d8e4"/>
+<rect x="470" y="154" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="560" y="154" width="30" height="28" fill="#c8d8e4"/>
+<rect x="590" y="154" width="90" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="175" font-size="15">24 / 30 min</text>
+<text x="35" y="224" font-size="16">3x8 / 3</text>
+<rect x="230" y="203" width="120" height="28" rx="2" fill="#176b87"/>
+<rect x="350" y="203" width="45" height="28" fill="#c8d8e4"/>
+<rect x="395" y="203" width="120" height="28" rx="2" fill="#176b87"/>
+<rect x="515" y="203" width="45" height="28" fill="#c8d8e4"/>
+<rect x="560" y="203" width="120" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="224" font-size="15">24 / 30 min</text>
+<text x="35" y="273" font-size="16">2x12 / 3</text>
+<rect x="230" y="252" width="180" height="28" rx="2" fill="#176b87"/>
+<rect x="410" y="252" width="45" height="28" fill="#c8d8e4"/>
+<rect x="455" y="252" width="180" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="273" font-size="15">24 / 27 min</text>
+<text x="35" y="322" font-size="16">4x6 / 3</text>
+<rect x="230" y="301" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="320" y="301" width="45" height="28" fill="#c8d8e4"/>
+<rect x="365" y="301" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="455" y="301" width="45" height="28" fill="#c8d8e4"/>
+<rect x="500" y="301" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="590" y="301" width="45" height="28" fill="#c8d8e4"/>
+<rect x="635" y="301" width="90" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="322" font-size="15">24 / 33 min</text>
+<text x="35" y="371" font-size="16">5x6 / 2</text>
+<rect x="230" y="350" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="320" y="350" width="30" height="28" fill="#c8d8e4"/>
+<rect x="350" y="350" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="440" y="350" width="30" height="28" fill="#c8d8e4"/>
+<rect x="470" y="350" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="560" y="350" width="30" height="28" fill="#c8d8e4"/>
+<rect x="590" y="350" width="90" height="28" rx="2" fill="#176b87"/>
+<rect x="680" y="350" width="30" height="28" fill="#c8d8e4"/>
+<rect x="710" y="350" width="90" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="371" font-size="15">30 / 38 min</text>
+<text x="35" y="420" font-size="16">4x8 / 2</text>
+<rect x="230" y="399" width="120" height="28" rx="2" fill="#176b87"/>
+<rect x="350" y="399" width="30" height="28" fill="#c8d8e4"/>
+<rect x="380" y="399" width="120" height="28" rx="2" fill="#176b87"/>
+<rect x="500" y="399" width="30" height="28" fill="#c8d8e4"/>
+<rect x="530" y="399" width="120" height="28" rx="2" fill="#176b87"/>
+<rect x="650" y="399" width="30" height="28" fill="#c8d8e4"/>
+<rect x="680" y="399" width="120" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="420" font-size="15">32 / 38 min</text>
+<text x="35" y="469" font-size="16">continuous 32</text>
+<rect x="230" y="448" width="480" height="28" rx="2" fill="#176b87"/>
+<text x="850" y="469" font-size="15">32 / 32 min</text>
+<text x="230" y="525" font-size="13">0</text>
+<text x="305" y="525" font-size="13">5</text>
+<text x="380" y="525" font-size="13">10</text>
+<text x="455" y="525" font-size="13">15</text>
+<text x="530" y="525" font-size="13">20</text>
+<text x="605" y="525" font-size="13">25</text>
+<text x="680" y="525" font-size="13">30</text>
+<text x="755" y="525" font-size="13">35</text>
+<text x="830" y="525" font-size="13">40</text>
+<text x="230" y="550" font-size="14">Main-set elapsed minutes; warm-up and cool-down excluded</text>
+<text x="850" y="550" font-size="13">Work / elapsed</text>
+</g></svg>

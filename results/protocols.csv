@@ -1,0 +1,9 @@
+protocol,repetitions,work_min_each,rest_min_each,work_total_min,rest_total_min,main_set_min,density_pct,with_15min_warmup_cooldown
+6x4 / 1,6,4,1,24,5,29,82.758621,44
+4x6 / 2,4,6,2,24,6,30,80.0,45
+3x8 / 3,3,8,3,24,6,30,80.0,45
+2x12 / 3,2,12,3,24,3,27,88.888889,42
+4x6 / 3,4,6,3,24,9,33,72.727273,48
+5x6 / 2,5,6,2,30,8,38,78.947368,53
+4x8 / 2,4,8,2,32,6,38,84.210526,53
+continuous 32,1,32,0,32,0,32,100.0,47

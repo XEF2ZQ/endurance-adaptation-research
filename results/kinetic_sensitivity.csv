@@ -1,0 +1,25 @@
+protocol,assumed_tau_s,integral_q_min,mean_q_work,status
+6x4 / 1,30,19.709738855,0.821239119,hypothetical acute proxy; not adaptation
+4x6 / 2,30,20.074567268,0.836440303,hypothetical acute proxy; not adaptation
+3x8 / 3,30,20.326313828,0.846929743,hypothetical acute proxy; not adaptation
+2x12 / 3,30,20.590656869,0.857944036,hypothetical acute proxy; not adaptation
+4x6 / 3,30,20.061977097,0.835915712,hypothetical acute proxy; not adaptation
+5x6 / 2,30,25.094422481,0.836480749,hypothetical acute proxy; not adaptation
+4x8 / 2,30,27.114561049,0.847330033,hypothetical acute proxy; not adaptation
+continuous 32,30,27.895,0.87171875,hypothetical acute proxy; not adaptation
+6x4 / 1,60,18.942830097,0.789284587,hypothetical acute proxy; not adaptation
+4x6 / 2,60,19.2194205,0.800809187,hypothetical acute proxy; not adaptation
+3x8 / 3,60,19.583272717,0.815969697,hypothetical acute proxy; not adaptation
+2x12 / 3,60,20.086393335,0.836933056,hypothetical acute proxy; not adaptation
+4x6 / 3,60,19.084030918,0.795167955,hypothetical acute proxy; not adaptation
+5x6 / 2,60,24.04213074,0.801404358,hypothetical acute proxy; not adaptation
+4x8 / 2,60,26.255756442,0.820492389,hypothetical acute proxy; not adaptation
+continuous 32,60,27.63,0.8634375,hypothetical acute proxy; not adaptation
+6x4 / 1,90,18.50032685,0.770846952,hypothetical acute proxy; not adaptation
+4x6 / 2,90,18.606059234,0.775252468,hypothetical acute proxy; not adaptation
+3x8 / 3,90,18.959694613,0.789987276,hypothetical acute proxy; not adaptation
+2x12 / 3,90,19.638052762,0.818252198,hypothetical acute proxy; not adaptation
+4x6 / 3,90,18.309817676,0.76290907,hypothetical acute proxy; not adaptation
+5x6 / 2,90,23.308553503,0.776951783,hypothetical acute proxy; not adaptation
+4x8 / 2,90,25.61850483,0.800578276,hypothetical acute proxy; not adaptation
+continuous 32,90,27.365,0.85515625,hypothetical acute proxy; not adaptation
