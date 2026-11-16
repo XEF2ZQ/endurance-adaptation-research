@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-16",
+  "pdf_pages": 11,
+  "reference_count": 18,
+  "all_references_cited": true,
+  "word_count": 4804,
+  "computational_tests_passed": 8,
+  "pdf_text_boundary_issues": 0,
+  "physiological_model_validated": false,
+  "github_repository_created": true,
+  "pdf_rendering": "all pages rendered; contact sheet and key pages visually inspected",
+  "publication_destination": "https://github.com/XEF2ZQ/endurance-adaptation-research"
+}
